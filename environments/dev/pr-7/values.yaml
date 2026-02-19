@@ -1,6 +1,0 @@
-namespace: pr-7
-deploymentName: challenge-app-pr-7
-serviceName: challenge-app-pr-7
-image:
-  repository: ghcr.io/bl4ckj4c/challenge-app
-  tag: a1b21318770847d8aa63531bf8929dc8483d89b9
